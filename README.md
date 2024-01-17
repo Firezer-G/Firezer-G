@@ -2,9 +2,7 @@
 <h1 align="center">Hello 👋, I'm Firezer Wudneh</h1>
 <h3 align="center">A passionate Application developer from Ethiopia</h3>
 
-- 🔭 I’m currently working on **Addis Light**
-
-- 🌱 I’m currently learning **Flutter, Dart**
+- 🔭 Continiously Upgrading My **Flutter Skills**
 
 - 💬 Ask me about **C++**
 
