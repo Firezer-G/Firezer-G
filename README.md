@@ -1,6 +1,6 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Developer%20👨‍💻&width=1200&height=300)](https://github.com/Akshay090/svg-banners)
 <h1 align="center">Hello 👋, I'm Firezer Wudneh</h1>
-<h3 align="center">A passionate Mobile Application developer from Ethiopia</h3>
+<h3 align="center">A passionate Mobile Application developer</h3>
 
 - 🔭 Continiously Upgrading My **Flutter Skills**
 
